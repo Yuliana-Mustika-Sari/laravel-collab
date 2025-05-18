@@ -8,5 +8,6 @@
 <body>
     <h1>Welcome to Laravel</h1>
     <p>Welcome again from views</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur dolorem iure nam ipsa eveniet ipsum, aut natus repellat sequi veniam perferendis necessitatibus, enim, incidunt illo? Accusantium illum iste rerum! Esse!</p>
 </body>
 </html>
